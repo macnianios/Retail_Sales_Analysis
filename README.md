@@ -91,6 +91,6 @@ DATA
 --------------
 Results
 
-  • All our findigs from statistical analysis, ANOVA, Liner Regression, Clustering, suggests that our data have much variation, and all categories behave in a way that makes it difficult to predict purchase behavior based solely on customer demographics or product category. We were unable to successfully categorize customers based on their purchase characteristics.
+  • All our findings  from statistical analysis, ANOVA, Liner Regression, Clustering, suggests that our data have much variation, and all categories behave in a way that makes it difficult to predict purchase behavior based solely on customer demographics or product category. We were unable to successfully categorize customers based on their purchase characteristics.
 
 
