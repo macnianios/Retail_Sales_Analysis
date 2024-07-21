@@ -5,7 +5,7 @@ Files:
   1. Retail_Sales_Analysis.ipynb : The python file with all the code, plots and comments in english
   2. Retail_Sales_Analysis_presentation.pptx : The powerpoint of the presentation
   3. Retail_Sales_Analysis_greek.pdf  : PDF file with the analysis and conclusions in greek language without the code
-
+  4. Retail_Sales_Analysis_dataset.csv : The dataset in a csv format
 --------------
 
 Running the Notebook in Google Colab
@@ -13,6 +13,7 @@ Running the Notebook in Google Colab
   2.	Upload the Notebook:
   3.	Click on "File" -> "Upload notebook" and select "Retail_Sales_Analysis.ipynb" from your local machine.
   4.	Alternatively, you can upload the entire project directory (including "Retail_Sales_Analysis.ipynb") to your Google Drive and open the notebook directly from there.
+  5.  Don't forget to also upload the csv file in your google drive and change the path in the upload section of the code 
 --------------
 
 Objective
@@ -23,7 +24,7 @@ focusing on foundational data science skills and project management.
 
 Project Description
 
-Use the dummy dataset provided in the accompanying CSV file for your analysis(adjusted_retail_sales_data_v2.csv).
+Use the dummy dataset provided in the accompanying CSV file for your analysis(Retail_Sales_Analysis_dataset.csv).
 --------------
 
 Analysis Goals
